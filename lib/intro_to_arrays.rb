@@ -28,4 +28,5 @@ end
 
 def length_of_array(a)
   return a.lenth
+end
 
